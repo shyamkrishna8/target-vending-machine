@@ -1,2 +1,1 @@
-# target-vending-machine
-Vending machines with basic functionality
+Target vending machine implementation with basic implementation
